@@ -2,7 +2,6 @@
 <project>
 	<configuration id="cdt.managedbuild.config.gnu.exe.debug.1276686448" name="Debug">
 		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
-			<provider copy-of="extension" id="de.marw.cmake.cdt.language.settings.providers.CompileCommandsJsonParser"/>
 			<provider copy-of="extension" id="org.eclipse.cdt.ui.UserLanguageSettingsProvider"/>
 			<provider-reference id="org.eclipse.cdt.core.ReferencedProjectsLanguageSettingsProvider" ref="shared-provider"/>
 			<provider-reference id="org.eclipse.cdt.managedbuilder.core.MBSLanguageSettingsProvider" ref="shared-provider"/>
@@ -14,7 +13,6 @@
 	</configuration>
 	<configuration id="cdt.managedbuild.config.gnu.exe.release.1491808590" name="Release">
 		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
-			<provider copy-of="extension" id="de.marw.cmake.cdt.language.settings.providers.CompileCommandsJsonParser"/>
 			<provider copy-of="extension" id="org.eclipse.cdt.ui.UserLanguageSettingsProvider"/>
 			<provider-reference id="org.eclipse.cdt.core.ReferencedProjectsLanguageSettingsProvider" ref="shared-provider"/>
 			<provider-reference id="org.eclipse.cdt.managedbuilder.core.MBSLanguageSettingsProvider" ref="shared-provider"/>

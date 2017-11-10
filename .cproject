@@ -98,21 +98,6 @@
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
 		<project id="hello.cdt.managedbuild.target.gnu.exe.732274485" name="Executable" projectType="cdt.managedbuild.target.gnu.exe"/>
 	</storageModule>
-	<storageModule moduleId="scannerConfiguration">
-		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.release.1491808590;cdt.managedbuild.config.gnu.exe.release.1491808590.;cdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1120641652;cdt.managedbuild.tool.gnu.cpp.compiler.input.590057316">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.release.1491808590;cdt.managedbuild.config.gnu.exe.release.1491808590.;cdt.managedbuild.tool.gnu.c.compiler.exe.release.1067374040;cdt.managedbuild.tool.gnu.c.compiler.input.1487767601">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.debug.1276686448;cdt.managedbuild.config.gnu.exe.debug.1276686448.;cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1390134463;cdt.managedbuild.tool.gnu.c.compiler.input.1139187856">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.debug.1276686448;cdt.managedbuild.config.gnu.exe.debug.1276686448.;cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1104917917;cdt.managedbuild.tool.gnu.cpp.compiler.input.1043467934">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
 	<storageModule moduleId="refreshScope" versionNumber="2">
 		<configuration configurationName="Debug">
@@ -123,4 +108,5 @@
 		</configuration>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
+	<storageModule moduleId="scannerConfiguration"/>
 </cproject>
