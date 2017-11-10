@@ -6,7 +6,7 @@ int main(int argn, char** args)
 {
     int msgIndx = 1;
     const char* defMsg = "Hello World!";
-    const char* pMsg = argn > 1 ? args[msgIndx] : nullptr;
+    char* pMsg = argn > 1 ? args[msgIndx] : nullptr;
     std::string msg(pMsg != nullptr ? pMsg : defMsg);
     std::cout << msg << std::endl;
     if (std::cout.fail())

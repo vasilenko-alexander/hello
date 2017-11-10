@@ -1,2 +1,6 @@
 bin/
 build/
+.settings/
+.cproject
+.pydevproject
+.project
