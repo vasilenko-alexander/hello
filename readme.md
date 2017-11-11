@@ -6,3 +6,6 @@ CMakeLists
 5 install (TARGETS val DESTINATION val) - run make in dest directory
 
 Test run hello using subprocess
+
+# Hello World Build
+Linux & OS X build ![Sheme](https://travis-ci.org/vasilenko-alexander/hello.svg?branch=master)
